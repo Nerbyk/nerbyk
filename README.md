@@ -1,16 +1,42 @@
-### Hi there 👋
+## Hi, I'm Danil Maksimov 👋
+[![Linkedin: nerbyk](https://img.shields.io/badge/-nerbyk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nerbyk/)](https://www.linkedin.com/in/nerbyk/)
+[![GitHub Nerbyk](https://img.shields.io/github/followers/nerbyk?label=follow&style=social)](https://github.com/Nerbyk)
+![Codewars: Nerbyk](https://www.codewars.com/users/Nerbyk/badges/micro)
+[![Chat on me Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/nerby1) 
 
-<!--
-**Nerbyk/nerbyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A little more about me... 
+```javascript 
+const danil = {
+  pronouns: "he" | "his",
+  currently-employed: false, 
+  title: "Full Stack Developer",
+  resumeUrl: "https://nerbyk.github.io/",
+  languages: ["ruby", "javascript","c"],
+  tools: {
+    backEnd: ["ruby on rails", "dry-rb", "rspec"],
+    frontEnd: ["react", "bootstrap"],
+    sql: {
+      orm: ["ActiveRecorder","Sequel"],
+      database: {
+        development: "SQLite3",
+        production: "PostgreSQL",
+      },
+    },
+    cloudComputing: "Heroku"
+  },
+  technologies: {
+    oop: ["Design Patterns", "SOLID", "DRY", "KISS", "YAGNI"],
+    fp: ["Functions", "Functions", "Functions, also", "Oh my, functions again!"], 
+    approaches: ["TDD", "BDD"],
+    theoreticalSkills: ["CI/CD", "Docker", "Jenkins", "Cloud Computing"]
+  },
+ currentGoal: "Create React-Rails Blog"
+}
+```
+### Currently working on 
+* Rails-React Blog
+### Currenly learning 
+* React Framework with a book by O'Reilly [Learning React Modern Patterns for Developing React Apps](https://www.amazon.com/Learning-React-Modern-Patterns-Developing/dp/1492051721)
+### My Stats
+![Nerbyk's github stats](https://github-readme-stats.vercel.app/api?username=nerbyk&show_icons=true&theme=radical&hide=prs,issues,contribs)
+[![Nerbyk's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nerbyk)](https://github.com/nerbyk/github-readme-stats)
