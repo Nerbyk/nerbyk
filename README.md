@@ -1,7 +1,7 @@
 ## Hi, I'm Danil Maksimov 👋
 [![Linkedin: nerbyk](https://img.shields.io/badge/-nerbyk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nerbyk/)](https://www.linkedin.com/in/nerbyk/)
 [![GitHub Nerbyk](https://img.shields.io/github/followers/nerbyk?label=follow&style=social)](https://github.com/Nerbyk)
-![Codewars: Nerbyk](https://www.codewars.com/users/Nerbyk/badges/micro)
+[![Codewars: Nerbyk](https://www.codewars.com/users/Nerbyk/badges/micro)](https://www.codewars.com/users/Nerbyk)
 [![Chat on me Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/nerby1) 
 
 ### A little more about me... 
