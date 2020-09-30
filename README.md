@@ -37,6 +37,6 @@ const danil = {
 ![Nerbyk's github stats](https://github-readme-stats.vercel.app/api?username=nerbyk&show_icons=true&theme=radical&hide=prs,issues,contribs)
 [![Nerbyk's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nerbyk)](https://github.com/nerbyk/github-readme-stats)
 ### Currently working on 
-* Rails-React Blog
+* Rails-React Blog [Fontend Repo](https://github.com/Nerbyk/RRR-Blog) [BackEnd Repo](https://github.com/Nerbyk/RRR-Blog-api)
 ### Currenly learning 
 * React Framework with a book by O'Reilly [Learning React Modern Patterns for Developing React Apps](https://www.amazon.com/Learning-React-Modern-Patterns-Developing/dp/1492051721)
