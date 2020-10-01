@@ -8,7 +8,7 @@
 ```javascript 
 const danil = {
   pronouns: "he" | "his",
-  currently-employed: false, 
+  currentlyEmployed: false, 
   title: "Full Stack Developer",
   resumeUrl: "https://nerbyk.github.io/",
   languages: ["ruby", "javascript","c"],
