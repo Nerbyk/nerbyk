@@ -14,7 +14,7 @@ const danil = {
   languages: ["ruby", "javascript","c"],
   tools: {
     backEnd: ["ruby on rails", "dry-rb", "rspec"],
-    frontEnd: ["react", "bootstrap"],
+    frontEnd: ["react", "redux", "bootstrap"],
     sql: {
       orm: ["ActiveRecorder","Sequel"],
       database: {
