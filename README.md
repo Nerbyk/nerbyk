@@ -35,7 +35,7 @@ const danil = {
 ```
 ### My Stats
 ![Nerbyk's github stats](https://github-readme-stats.vercel.app/api?username=nerbyk&show_icons=true&theme=radical&hide=prs,issues,contribs)
-[![Nerbyk's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nerbyk)](https://github.com/nerbyk/github-readme-stats)
+[![Nerbyk's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nerbyk)](https://wakatime.com/@Nerbyk)
 ### Currently working on 
 * Rails-React Blog — [FontEnd Repo](https://github.com/Nerbyk/RRR-Blog) && [BackEnd Repo](https://github.com/Nerbyk/RRR-Blog-api)
 ### Currenly learning 
