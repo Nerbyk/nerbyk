@@ -39,4 +39,5 @@ const danil = {
 ### Currently working on 
 * Rails-React Blog — [FontEnd Repo](https://github.com/Nerbyk/RRR-Blog) && [BackEnd Repo](https://github.com/Nerbyk/RRR-Blog-api)
 ### Currenly learning 
-* React Framework with a book by O'Reilly [Learning React Modern Patterns for Developing React Apps](https://www.amazon.com/Learning-React-Modern-Patterns-Developing/dp/1492051721)
+* Redux in practice 
+* GraphQL with a help of https://www.howtographql.com
