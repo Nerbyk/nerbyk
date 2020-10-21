@@ -13,8 +13,8 @@ const danil = {
   resumeUrl: "https://nerbyk.github.io/",
   languages: ["ruby", "javascript","c"],
   tools: {
-    backEnd: ["ruby on rails", "dry-rb", "rspec"],
-    frontEnd: ["react", "redux", "bootstrap"],
+    backEnd: ["ruby on rails", "dry-rb", "rspec", "elasticsearch"],
+    frontEnd: ["react", "redux", "axios"],
     sql: {
       orm: ["ActiveRecorder","Sequel"],
       database: {
@@ -37,7 +37,6 @@ const danil = {
 ![Nerbyk's github stats](https://github-readme-stats.vercel.app/api?username=nerbyk&show_icons=true&theme=radical&hide=prs,issues,contribs)
 [![Nerbyk's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nerbyk)](https://wakatime.com/@Nerbyk)
 ### Currently working on 
-* Rails-React Blog — [FontEnd Repo](https://github.com/Nerbyk/RRR-Blog) && [BackEnd Repo](https://github.com/Nerbyk/RRR-Blog-api)
+* Web Scraper — [FontEnd Repo](https://github.com/Nerbyk/Web-Scraper-React) && [BackEnd Repo](https://github.com/Nerbyk/Web-Scraper)
 ### Currenly learning 
-* Redux in practice 
-* GraphQL with a help of https://www.howtographql.com
+
