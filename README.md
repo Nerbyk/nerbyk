@@ -8,7 +8,7 @@
 ```javascript 
 const danil = {
   pronouns: "he" | "his",
-  currentlyEmployed: false, 
+  currentlyEmployed: true, 
   title: "Full Stack Developer",
   resumeUrl: "https://nerbyk.github.io/",
   languages: ["ruby", "javascript","c"],
@@ -35,8 +35,4 @@ const danil = {
 ```
 ### My Stats
 ![Nerbyk's github stats](https://github-readme-stats.vercel.app/api?username=nerbyk&show_icons=true&theme=radical&hide=prs,issues,contribs)
-[![Nerbyk's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nerbyk)](https://wakatime.com/@Nerbyk)
-### Currently working on 
-* Web Scraper — [FontEnd Repo](https://github.com/Nerbyk/Web-Scraper-React) && [BackEnd Repo](https://github.com/Nerbyk/Web-Scraper)
-### Currenly learning 
-
+[![Nerbyk's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nerbyk)](https://wakatime.com/@Nerbyk) 
