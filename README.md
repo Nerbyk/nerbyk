@@ -11,15 +11,15 @@ const danil = {
   currentlyEmployed: true, 
   title: "Full Stack Developer",
   resumeUrl: "https://nerbyk.github.io/",
-  languages: ["ruby", "javascript","c"],
+  languages: ["ruby", "javascript", "c"],
   tools: {
-    backEnd: ["ruby on rails", "dry-rb", "rspec", "elasticsearch"],
-    frontEnd: ["react", "redux", "axios"],
+    backEnd: ["ruby on rails", "dry-rb", "rspec", "sidekiq", "elasticsearch"],
+    frontEnd: ["react", "vue.js" , "redux", "axios"],
     sql: {
       orm: ["ActiveRecorder","Sequel"],
       database: {
         development: "SQLite3",
-        production: "PostgreSQL",
+        production: "PostgreSQL, "mySQL",
       },
     },
     cloudComputing: "Heroku"
@@ -30,7 +30,7 @@ const danil = {
     approaches: ["TDD", "BDD"],
     theoreticalSkills: ["CI/CD", "Docker", "Jenkins", "Cloud Computing"]
   },
- currentGoal: "Create React-Rails Blog"
+ currentGoal: "Destroy all legacy code"
 }
 ```
 ### My Stats
