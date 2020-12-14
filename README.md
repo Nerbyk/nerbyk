@@ -19,7 +19,7 @@ const danil = {
       orm: ["ActiveRecorder","Sequel"],
       database: {
         development: "SQLite3",
-        production: "PostgreSQL, "mySQL",
+        production: "PostgreSQL", "mySQL", "mariaDB"
       },
     },
     cloudComputing: "Heroku"
